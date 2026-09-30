@@ -1,0 +1,6 @@
+name: genpark-type-coercion-and-casting-engine-skill
+version: 1.0.0
+description: Safely coerces stringified primitives and mixed data types into strictly typed Python ints, floats, booleans, and lists
+command: python
+args:
+  - mcp_server.py
