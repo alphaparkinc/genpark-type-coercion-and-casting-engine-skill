@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-type-coercion-and-casting-engine-skill"
+version = "1.0.0"
+description = "Safely coerces stringified primitives and mixed data types into strictly typed Python ints, floats, booleans, and lists"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
