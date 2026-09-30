@@ -1,0 +1,20 @@
+{
+  "name": "genpark-type-coercion-and-casting-engine-skill",
+  "version": "1.0.0",
+  "description": "Safely coerces stringified primitives and mixed data types into strictly typed Python ints, floats, booleans, and lists",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "type-coercion",
+    "casting-engine",
+    "tool-call-repair",
+    "strict-typing",
+    "schema-validation",
+    "python-standard-library",
+    "agent-skills",
+    "data-cleaning",
+    "argument-casting",
+    "developer-tools"
+  ]
+}
